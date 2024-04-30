@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-(27yyly*a9)zlnvrute$3p5!6ul(qdcc99fz$(p_w=v%0k8fn=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['grandcoffee.azurewebsites.net','localhost']
 
 
 # Application definition
